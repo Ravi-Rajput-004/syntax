@@ -1,0 +1,31 @@
+.team-carousel {
+    padding: 50px 0;
+  }
+  
+  .carousel-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .card-team {
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .card-image img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .card-info h6 {
+    font-size: 1.2rem;
+    margin: 5px 0;
+  }
+  
+  .card-info p {
+    font-size: 1rem;
+    color: gray;
+  }
+  

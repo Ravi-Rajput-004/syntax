@@ -1,10 +1,10 @@
-const Section1=()=>
+import React from 'react'
+import "./AboutSec1.css";
 
-
-  
-{
-    return(
-        <section class="section-box wow animate__animated animate__fadeIn box-our-track animated" style={{visibility: "visible"}}>
+const ServiceSec3 = () => {
+  return (
+    
+    <section class="section-box wow animate__animated animate__fadeIn box-our-track">
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-6 text-center mb-40"><img src="assets/imgs/page/homepage1/img-track.png" alt="Nivia"/></div>
@@ -56,6 +56,7 @@ const Section1=()=>
           </div>
         </div>
       </section>
-    )
+  )
 }
-export default Section1
+
+export default ServiceSec3
