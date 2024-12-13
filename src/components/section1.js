@@ -4,7 +4,7 @@ const Section1=()=>
         <section class="section-box wow animate__animated animate__fadeIn box-our-track animated" style={{visibility: "visible"}}>
         <div class="container">
           <div class="row align-items-center">
-            <div class="col-lg-6 text-center mb-40"><img src="assets/imgs/page/homepage1/img-track.png" alt="Nivia"/></div>
+            <div class="col-lg-6 text-center mb-80"><img src="assets/imgs/10. Outsourcing and Staffing Services.jpg" alt="Nivia"/></div>
             <div class="col-lg-6 mb-40">
               <div class="box-padding-left-50">
                 <div class="strate-icon"><span></span> Strategies that work</div>

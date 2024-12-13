@@ -4,10 +4,10 @@ const Section6 = () => {
       <section class="section-box wow animate__animated animate__fadeIn box-discover">
         <div class="container">
           <div class="row align-items-center">
-            <div class="col-lg-6 mb-30">
+            <div class="col-lg-6 mb-50">
               <div class="box-image-neutral-1000">
                 <img
-                  src="assets/imgs/page/homepage1/img-discover.png"
+                  src="assets/imgs/Digital Transformation Services.jpg"
                   alt="Nivia"
                 />
               </div>

@@ -25,7 +25,7 @@ const Header = () => {
                 <div class="container">
                     <div class="main-header">
                         <div class="header-left">
-                            <div class="header-logo"><a class="d-flex" href="index.html"><img style={{height:"99px", width:"180px"}} alt="Nivia" src="assets/imgs/syntaxlogo.jpg" /></a></div>
+                            <div class="header-logo"><a class="d-flex" href="index.html"><img style={{height:"120px", width:"180px"}} alt="Nivia" src="assets/imgs/bg-logo.png" /></a></div>
                             <div class="header-nav">
                                 <nav class="nav-main-menu d-none d-xl-block">
                                     <ul class="main-menu">

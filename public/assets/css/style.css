@@ -7595,6 +7595,8 @@ a.icon-socials:hover {
   border-radius: 32px;
   padding: 23px;
   overflow: hidden;
+  background-image: url(../imgs/CYBER\ SECURITY.jpg);
+  height: 550px;
 }
 
 .box-image-line-1 {
