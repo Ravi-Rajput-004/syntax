@@ -46,17 +46,17 @@ const Section3=()=>{
             <div class="col-lg-6 text-center mb-40">
               <div class="box-border-image">
                 <div class="box-image-line-1">
-                  <div class="wow fadeInDown img-1" data-wow-delay="0"><img src="assets/imgs/page/homepage1/img-track2-1.png" alt="Nivia" /></div>
-                  <div class="wow fadeInDown img-1" data-wow-delay="0.3s"><img src="assets/imgs/page/homepage1/img-track2-2.png" alt="Nivia" /></div>
+                  <div class="wow fadeInDown img-1" data-wow-delay="0"></div>
+                  <div class="wow fadeInDown img-1" data-wow-delay="0.3s"></div>
                 </div>
                 <div class="box-image-line-2">
-                  <div class="wow fadeInLeft img-1" data-wow-delay="0"><img src="assets/imgs/page/homepage1/img-track2-3.png" alt="Nivia" /></div>
-                  <div class="wow fadeInRight img-1" data-wow-delay="0.2s"><img src="assets/imgs/page/homepage1/img-track2-4.png" alt="Nivia" /></div>
+                  <div class="wow fadeInLeft img-1" data-wow-delay="0"> </div>
+                  <div class="wow fadeInRight img-1" data-wow-delay="0.2s"> </div>
                 </div>
                 <div class="box-image-line-3">
-                  <div class="wow fadeInUp img-1" data-wow-delay="0"><img src="assets/imgs/page/homepage1/img-track2-5.png" alt="Nivia" /></div>
-                  <div class="wow fadeInUp img-2" data-wow-delay="0.2s"><img src="assets/imgs/page/homepage1/img-track2-6.png" alt="Nivia" /></div>
-                  <div class="wow fadeInUp img-3" data-wow-delay="0.4s"><img src="assets/imgs/page/homepage1/img-track2-7.png" alt="Nivia" /></div>
+                  <div class="wow fadeInUp img-1" data-wow-delay="0"> </div>
+                  <div class="wow fadeInUp img-2" data-wow-delay="0.2s"> </div>
+                  <div class="wow fadeInUp img-3" data-wow-delay="0.4s"> </div>
                 </div>
               </div>
             </div>
