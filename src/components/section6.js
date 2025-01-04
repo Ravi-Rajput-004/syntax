@@ -14,12 +14,10 @@ const Section6 = () => {
             </div>
             <div class="col-lg-6 mb-30">
               <h2>
-                Discover insights across all your data with Nivia Platform
+              Why Choose Syntax Developers?
               </h2>
               <p class="text-lg neutral-500 text-justify">
-                Bole nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                commodo conididunt ut labore et dolore magna aliqua ut enim ad
-                minim veniam
+              Syntax Developers is the best IT Solution Company that helps your business grow in every direction. Being the IT consulting leaders, we focus on cloud solutions, software development, cybersecurity, and data analytics and many more, to make the best of the given situations and get ahead in the curve. We take care of the innovation, tailoring the services for our clients, making sure the objectives are met with precision and efficiency. Let us trust Syntax Developers with the best reliable cutting-edge IT solutions for guaranteed results and long-term success.
               </p>
               <div class="box-buttons-feature-4">
                 <a class="btn btn-brand-4-medium mr-20" href="#">
@@ -74,87 +72,7 @@ const Section6 = () => {
                   Learn More
                 </a>
               </div>
-              <div class="box-reviews-home5">
-                <div class="box-swiper">
-                  <div class="swiper-container swiper-group-1">
-                    <div class="swiper-wrapper">
-                      <div class="swiper-slide">
-                        <div class="item-review-discover">
-                          <p class="text-lg">
-                            I've been working with this digital marketing agency
-                            for several months now, and I'm genuinely thrilled
-                            with the results. Their team has a deep
-                            understanding of SEO and social media marketing.
-                          </p>
-                          <div class="box-author-review">
-                            <div class="box-author">
-                              <a href="#">
-                                <img
-                                  src="assets/imgs/page/homepage1/author.png"
-                                  alt="Nivia"
-                                />
-                              </a>
-                              <div class="author-info">
-                                <a href="#">
-                                  <span class="author-name">Guy Hawkins</span>
-                                </a>
-                                <span class="text-sm color-600 department">
-                                  Apple JSC
-                                </span>
-                              </div>
-                            </div>
-                            <div class="author-brand">
-                              <a href="#">
-                                <img
-                                  src="assets/imgs/page/homepage1/mint.png"
-                                  alt="Nivia"
-                                />
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="swiper-slide">
-                        <div class="item-review-discover">
-                          <p class="text-lg">
-                            Their communication is exceptional; they keep me
-                            informed about progress and collaborate closely to
-                            ensure the best outcomes. If you're looking for a
-                            digital marketing agency, these folks are the real
-                            deal.
-                          </p>
-                          <div class="box-author-review">
-                            <div class="box-author">
-                              <a href="#">
-                                <img
-                                  src="assets/imgs/page/homepage1/author2.png"
-                                  alt="Nivia"
-                                />
-                              </a>
-                              <div class="author-info">
-                                <a href="#">
-                                  <span class="author-name">Rosie Jane</span>
-                                </a>
-                                <span class="text-sm color-600 department">
-                                  Apple JSC
-                                </span>
-                              </div>
-                            </div>
-                            <div class="author-brand">
-                              <a href="#">
-                                <img
-                                  src="assets/imgs/page/homepage1/logo6.png"
-                                  alt="Nivia"
-                                />
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+               
             </div>
           </div>
         </div>
@@ -704,14 +622,10 @@ const Section6 = () => {
                   Frequently Asked Questions
                 </a>
                 <h2 class="heading-2 mb-20 mt-20">
-                  Do you have any questions?
+                Is there anything you'd like to ask?
                 </h2>
                 <p class="text-lg neutral-700 text-justify">
-                  Below you’ll find answers to the most common questions you may
-                  have on Nivia Platform & Online Advertising. Also, please feel
-                  free to check out our Facebook & Google Advertising Guides &
-                  Academy. If you still can’t find the answer you’re looking
-                  for, just{" "}
+                Is there something you'd like to ask? No problem. We are here and ready to help you, answering any questions or dealing with your concerns. Whether these are related to our services, solutions, or maybe something else, don't hesitate to contact us. You can always expect clear and insightful answers from our team regarding any information you need. Feel free to ask – after all, we're here to facilitate your informed decisions and stay by your side throughout each step.{" "}
                   <a class="text-18-bold brand-1-1" href="#">
                     Contact us
                   </a>
@@ -733,8 +647,7 @@ const Section6 = () => {
                       aria-expanded="false"
                       aria-controls="flush-collapseOne"
                     >
-                      What audiences can I target when creating my Facebook
-                      campaigns?
+                     1. What products/services does Syntax Developers sell?
                     </button>
                   </h2>
                   <div
@@ -745,13 +658,8 @@ const Section6 = () => {
                   >
                     <div class="accordion-body">
                       <p class="text-justify">
-                        Discover what sets this apart as the market's easiest
-                        and most powerful video interviewing platform, and why
-                        hiring managers consistently choose us over the
-                        competition. Discover what sets this apart as the
-                        market's easiest and most powerful video interviewing
-                        platform, and why hiring managers consistently choose us
-                        over the competition
+                      Syntax Developers offers a diverse portfolio of IT solutions such as software development, system integration, IT management, data security, cloud services, and many more tailored for business needs.
+
                       </p>
                     </div>
                   </div>
@@ -766,8 +674,7 @@ const Section6 = () => {
                       aria-expanded="false"
                       aria-controls="flush-collapseTwo"
                     >
-                      Can you provide benchmarks for Facebook advertising costs?
-                    </button>
+2. Can AI solutions be customized according to my business needs?                    </button>
                   </h2>
                   <div
                     class="accordion-collapse collapse"
@@ -777,12 +684,7 @@ const Section6 = () => {
                   >
                     <div class="accordion-body">
                       <p class="text-justify">
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition.
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition.
+                      Yes, we develop AI solutions specifically tailored to meet your business's needs, such as improving customer service, automating workflows, or making better decisions.
                       </p>
                     </div>
                   </div>
@@ -797,8 +699,7 @@ const Section6 = () => {
                       aria-expanded="false"
                       aria-controls="flush-collapseThree"
                     >
-                      Where will my Google Ads be shown?
-                    </button>
+3. How do you ensure the quality of your data?                    </button>
                   </h2>
                   <div
                     class="accordion-collapse collapse"
@@ -809,12 +710,7 @@ const Section6 = () => {
                     <div class="accordion-body">
                     <p class="text-justify">
 
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition.
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition
+                    We follow best practices and ensure there is proper data cleaning, validation, and integration to guarantee that the data is valid, reliable, and appropriate for analysis to aid in making decisions.
                       </p>
                     </div>
                   </div>
@@ -829,8 +725,8 @@ const Section6 = () => {
                       aria-expanded="false"
                       aria-controls="flush-collapseFour"
                     >
-                      Which keywords should I use for my Google Ads campaigns?
-                    </button>
+4. How long does it take to develop a custom website?
+</button>
                   </h2>
                   <div
                     class="accordion-collapse collapse"
@@ -841,12 +737,7 @@ const Section6 = () => {
                     <div class="accordion-body">
                     <p class="text-justify">
 
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition.
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition
+                    The development time depends on the project complexity, but generally speaking, a custom website might take between 4 to 8 weeks to plan, design, test, and launch.
                       </p>
                     </div>
                   </div>
@@ -872,7 +763,7 @@ const Section6 = () => {
                     Testimonials
                   </a>
                   <h3 class="mt-20 neutral-0">
-                    Here’s Why Our Customers Love Us
+                  Reasons Our Customers Trust Us
                   </h3>
                 </div>
                 <div class="col-lg-4 mb-50">
@@ -927,9 +818,7 @@ const Section6 = () => {
                         </div>
                         <div class="card-info">
                           <p class="text-md neutral-500">
-                            “As a long-time user of Nivia Platform's digital
-                            marketing, I can confidently attest to the
-                            outstanding quality and reliability they offer. ”
+                          It has been a wonderful experience working with Syntax Developers. The company ensures a collaborative work environment and helps professionals grow. With the core focus of providing the best IT consulting services , Syntax Developers brings about the most cutting-edge solutions to drive success and innovation.
                           </p>
                           <div class="card-author-review">
                             <div class="card-author-info">

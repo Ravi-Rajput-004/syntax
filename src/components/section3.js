@@ -5,15 +5,15 @@ const Section3=()=>{
           <div class="row align-items-center">
             <div class="col-lg-6 mb-40">
               <div class="strate-icon"><span></span> Strategies that work</div>
-              <h2 class="heading-2 mb-20 ">Track the progress towards objectives with key results</h2>
-              <p class="text-lg neutral-700 text-justify">Nivia is an independent web design studio with a rich history. Founded in 1999, it gathered the best web designers & developers.</p>
+              <h2 class="heading-2 mb-20 ">Achieve your goals effectively by tracking key results with SYNTAX Developers.</h2>
+              <p class="text-lg neutral-700 text-justify"> Achieve your business goals precisely with SYNTAX Developers. Its advanced solutions make it easy to track key results, optimize performance, and make informed decisions. Monitor how you are doing and align your strategies for success with the help of SYNTAX Developers.</p>
               <div class="row mt-50">
                 <div class="col-lg-12">
                   <div class="card-feature-2">
                     <div class="card-image"><img src="assets/imgs/page/homepage3/discover.svg" /></div>
                     <div class="card-info"><a href="#">
-                        <h3 class="text-22-bold">Discover your best and worst performing audiences</h3></a>
-                      <p class="text-md neutral-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        <h3 class="text-22-bold">Explore Your Best and Worst Audience Performances</h3></a>
+                      <p class="text-md neutral-700"> Achieve your business goals precisely with SYNTAX Developers. Its advanced solutions make it easy to track key results, optimize performance, and make informed decisions. Monitor how you are doing and align your strategies for success with the help of SYNTAX Developers.</p>
                     </div>
                   </div>
                 </div>
@@ -21,8 +21,8 @@ const Section3=()=>{
                   <div class="card-feature-2">
                     <div class="card-image"><img src="assets/imgs/page/homepage3/keep.svg" /></div>
                     <div class="card-info"><a href="#">
-                        <h3 class="text-22-bold">Keep your team in the loop</h3></a>
-                      <p class="text-md neutral-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, iste</p>
+                        <h3 class="text-22-bold">Stay Ahead with SYNTAX Developers</h3></a>
+                      <p class="text-md neutral-700"> Stay ahead with SYNTAX Developers. Optimize business performance, enable data-driven decision making, and drive growth with innovative IT solutions for your organization.</p>
                     </div>
                   </div>
                 </div>

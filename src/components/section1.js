@@ -11,14 +11,14 @@ const Section1=()=>
             <div class="col-lg-6 mb-40">
               <div class="box-padding-left-50">
                 <div class="strate-icon"><span></span> Strategies that work</div>
-                <h2 class="heading-2 mb-20 ">Track the progress towards objectives with key results</h2>
-                <p class="text-lg neutral-700 text-justify">Nivia is an independent web design studio with a rich history. Founded in 1999, it gathered the best web designers &amp; developers.</p>
+                <h2 class="heading-2 mb-20 ">About Us: Your Trusted Partner in Innovation</h2>
+                <p class="text-lg neutral-700 text-justify">Learn how our innovative IT solutions help businesses grow, adapt, and succeed. We are your trusted partner, bringing cutting-edge Developers to shape a brighter, smarter future together.</p>
                 <div class="row mt-50">
                   <div class="col-lg-6 col-sm-6">
                     <div class="card-feature-2">
                       <div class="card-image"><img src="assets/imgs/page/homepage3/marketing.svg"/></div>
                       <div class="card-info"><a href="#">
-                          <h3 class="text-22-bold">Intuitive Dashboard</h3></a>
+                          <h3 class="text-22-bold">Expert team</h3></a>
                        </div>
                     </div>
                   </div>
@@ -26,7 +26,7 @@ const Section1=()=>
                     <div class="card-feature-2">
                       <div class="card-image"><img src="assets/imgs/page/homepage3/digital.svg"/></div>
                       <div class="card-info"><a href="#">
-                          <h3 class="text-22-bold">Engagement Analysis</h3></a>
+                          <h3 class="text-22-bold">Customized Solutions</h3></a>
                        </div>
                     </div>
                   </div>
@@ -34,7 +34,7 @@ const Section1=()=>
                     <div class="card-feature-2">
                       <div class="card-image"><img src="assets/imgs/page/homepage3/product.svg"/></div>
                       <div class="card-info"><a href="#">
-                          <h3 class="text-22-bold">Advanced Security</h3></a>
+                          <h3 class="text-22-bold">Proven Track Record</h3></a>
                        </div>
                     </div>
                   </div>
@@ -42,7 +42,7 @@ const Section1=()=>
                     <div class="card-feature-2">
                       <div class="card-image"><img src="assets/imgs/page/homepage3/social.svg"/></div>
                       <div class="card-info"><a href="#">
-                          <h3 class="text-22-bold">Weekly Email Reports</h3></a>
+                          <h3 class="text-22-bold">Cost-Effective Services</h3></a>
                        </div>
                     </div>
                   </div>

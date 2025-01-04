@@ -3,6 +3,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Autoplay } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
+
 // import 'swiper/css/autoplay';
 import './section8.css'
 
@@ -48,7 +49,7 @@ const MySwiperComponent = () => (
     <SwiperSlide> 
     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="6 / 9"  >
                   <div class="card-news">
-                    <div class="card-image"><a href="blog-post.html"><img src="public/it1.webp" alt="Nivia"/></a></div>
+                    <div class="card-image"><a href="blog-post.html"><img src="assets/imgs/it1.webp" alt="Nivia"/></a></div>
                     <div class="card-info"><a class="heading-4" href="blog-post.html">How startups can improve their chances of getting financing</a>
                       <p class="text-md neutral-700 mt-15 mb-35 text-justify">Pellentesque at posuere tellus. Ut sed dui justo. Phasellus is scelerisque turpis arcu, ut pulvinar lectus tristique non. Nam laoreet, risus vel laoreet laoreet, mauris</p><a class="btn btn-learmore-2" href="blog-post.html"><span>
                           <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -68,7 +69,7 @@ const MySwiperComponent = () => (
     <SwiperSlide> 
     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="6 / 9" >
                   <div class="card-news">
-                    <div class="card-image"><a href="blog-post.html"><img src="public/it2.webp"alt="Nivia"/></a></div>
+                    <div class="card-image"><a href="blog-post.html"><img src="assets/imgs/it2.webp" alt="Nivia"/></a></div>
                     <div class="card-info"><a class="heading-4" href="blog-post.html">How startups can improve their chances of getting financing</a>
                       <p class="text-md neutral-700 mt-15 mb-35 text-justify">Pellentesque at posuere tellus. Ut sed dui justo. Phasellus is scelerisque turpis arcu, ut pulvinar lectus tristique non. Nam laoreet, risus vel laoreet laoreet, mauris</p><a class="btn btn-learmore-2" href="blog-post.html"><span>
                           <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -88,7 +89,7 @@ const MySwiperComponent = () => (
     <SwiperSlide> 
     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="6 / 9"  >
                   <div class="card-news">
-                    <div class="card-image"><a href="blog-post.html"><img src="public/it3.webp" alt="Nivia"/></a></div>
+                    <div class="card-image"><a href="blog-post.html"><img src="assets/imgs/it3.webp" alt="Nivia"/></a></div>
                     <div class="card-info"><a class="heading-4" href="blog-post.html">How startups can improve their chances of getting financing</a>
                       <p class="text-md neutral-700 mt-15 mb-35 text-justify">Pellentesque at posuere tellus. Ut sed dui justo. Phasellus is scelerisque turpis arcu, ut pulvinar lectus tristique non. Nam laoreet, risus vel laoreet laoreet, mauris</p><a class="btn btn-learmore-2" href="blog-post.html"><span>
                           <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -108,7 +109,7 @@ const MySwiperComponent = () => (
     <SwiperSlide> 
     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="6 / 9"  >
                   <div class="card-news">
-                    <div class="card-image"><a href="blog-post.html"><img src="public/it4.webp" alt="Nivia"/></a></div>
+                    <div class="card-image"><a href="blog-post.html"><img src="assets/imgs/it4.webp" alt="Nivia"/></a></div>
                     <div class="card-info"><a class="heading-4" href="blog-post.html">How startups can improve their chances of getting financing</a>
                       <p class="text-md neutral-700 mt-15 mb-35 text-justify">Pellentesque at posuere tellus. Ut sed dui justo. Phasellus is scelerisque turpis arcu, ut pulvinar lectus tristique non. Nam laoreet, risus vel laoreet laoreet, mauris</p><a class="btn btn-learmore-2" href="blog-post.html"><span>
                           <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -128,7 +129,7 @@ const MySwiperComponent = () => (
     <SwiperSlide> 
     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="6 / 9"  >
                   <div class="card-news">
-                    <div class="card-image"><a href="blog-post.html"><img src="public/it5.webp" alt="Nivia"/></a></div>
+                    <div class="card-image"><a href="blog-post.html"><img src="assets/imgs/it5.webp" alt="Nivia"/></a></div>
                     <div class="card-info"><a class="heading-4" href="blog-post.html">How startups can improve their chances of getting financing</a>
                       <p class="text-md neutral-700 mt-15 mb-35 text-justify">Pellentesque at posuere tellus. Ut sed dui justo. Phasellus is scelerisque turpis arcu, ut pulvinar lectus tristique non. Nam laoreet, risus vel laoreet laoreet, mauris</p><a class="btn btn-learmore-2" href="blog-post.html"><span>
                           <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -145,26 +146,7 @@ const MySwiperComponent = () => (
                   </div>
                 </div>
     </SwiperSlide>
-    <SwiperSlide> 
-    <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="6 / 9" >
-                  <div class="card-news">
-                    <div class="card-image"><a href="blog-post.html"><img src="assets/imgs/page/homepage1/img-news3.png" alt="Nivia"/></a></div>
-                    <div class="card-info"><a class="heading-4" href="blog-post.html">How startups can improve their chances of getting financing</a>
-                      <p class="text-md neutral-700 mt-15 mb-35 text-justify">Pellentesque at posuere tellus. Ut sed dui justo. Phasellus is scelerisque turpis arcu, ut pulvinar lectus tristique non. Nam laoreet, risus vel laoreet laoreet, mauris</p><a class="btn btn-learmore-2" href="blog-post.html"><span>
-                          <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <g clip-path="url(#clip0_24_999)">
-                              <path d="M10.6557 3.81393L1.71996 12.7497L0.251953 11.2817L9.18664 2.34592H1.31195V0.269531H12.7321V11.6897H10.6557V3.81393Z" fill="#191919"></path>
-                            </g>
-                            <defs>
-                              <clipPath id="clip0_24_999">
-                                <rect width="13" height="13" fill="white"></rect>
-                              </clipPath>
-                            </defs>
-                          </svg></span>                                            Learn More</a>
-                    </div>
-                  </div>
-                </div>
-    </SwiperSlide>
+  
   </div>
   </Swiper> 
    </div>
