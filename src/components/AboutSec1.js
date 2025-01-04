@@ -45,7 +45,7 @@ const AboutSec1 = () => {
             </div>
             <div className="col-lg-6">
               <div className="padding-right-auto">
-                <div className="box-padding-left-50 box-padding-right-50">
+                <div className="box-padding-left-50 box-padding-right-50" style={{marginTop:"120px"}}>
                   <div className="strate-icon"><span></span> Strategies that work</div>
                   <h2 className="heading-2 mb-20">Track the progress towards objectives with key results</h2>
                   <p className="text-lg neutral-700">Nivia is an independent web design studio with a rich history. Founded in 1999, it gathered the best web designers & developers.</p>

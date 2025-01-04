@@ -23,7 +23,7 @@ const Section4=()=>{
                   </svg></a>
                 <div class="card-info"><a href="#">
                     <h5 class="text-22-bold">Content Marketing</h5></a>
-                  <p class="text-md neutral-700">Strategic approach that involves creating and distributing valuable, relevant, and engaging content to attract and retain a target audience, ultimately driving brand awareness.</p>
+                  <p class="text-md neutral-700 text-justify">Strategic approach that involves creating and distributing valuable, relevant, and engaging content to attract and retain a target audience, ultimately driving brand awareness.</p>
                 </div>
               </div>
             </div>
@@ -34,7 +34,7 @@ const Section4=()=>{
                   </svg></a>
                 <div class="card-info"><a href="#">
                     <h5 class="text-22-bold">Business Reform</h5></a>
-                  <p class="text-md neutral-700">Refers to the process of reevaluating and improving the internal operations, structure, and strategies of a company to adapt to changing market conditions and achieve better efficiency, profitability.</p>
+                  <p class="text-md neutral-700 text-justify">Refers to the process of reevaluating and improving the internal operations, structure, and strategies of a company to adapt to changing market conditions and achieve better efficiency, profitability.</p>
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@ const Section4=()=>{
                   </svg></a>
                 <div class="card-info"><a href="#">
                     <h5 class="text-22-bold">IT Management</h5></a>
-                  <p class="text-md neutral-700"> Involves overseeing an organization's technology resources, including hardware, software, networks, and personnel, to ensure the efficient and secure operation of IT systems in alignment with business objectives.</p>
+                  <p class="text-md neutral-700 text-justify"> Involves overseeing an organization's technology resources, including hardware, software, networks, and personnel, to ensure the efficient and secure operation of IT systems in alignment with business objectives.</p>
                 </div>
               </div>
             </div>
@@ -69,7 +69,7 @@ const Section4=()=>{
                   </svg></a>
                 <div class="card-info"><a href="#">
                     <h5 class="text-22-bold">Infrastructure Plan</h5></a>
-                  <p class="text-md neutral-700"> An infrastructure plan outlines a comprehensive strategy for designing, building, and maintaining physical and digital infrastructure, ensuring scalability, resilience, and sustainable development.</p>
+                  <p class="text-md neutral-700 text-justify"> An infrastructure plan outlines a comprehensive strategy for designing, building, and maintaining physical and digital infrastructure, ensuring scalability, resilience, and sustainable development.</p>
                 </div>
               </div>
             </div>
@@ -82,7 +82,7 @@ const Section4=()=>{
                   </svg></a>
                 <div class="card-info"><a href="#">
                     <h5 class="text-22-bold">Firewall Advance</h5></a>
-                  <p class="text-md neutral-700">Signifies the enhancement of security measures, typically through the use of advanced firewall technology, to protect networks and systems from unauthorized access, malware, and cyber threats.</p>
+                  <p class="text-md neutral-700 text-justify">Signifies the enhancement of security measures, typically through the use of advanced firewall technology, to protect networks and systems from unauthorized access, malware, and cyber threats.</p>
                 </div>
               </div>
             </div>
@@ -96,7 +96,7 @@ const Section4=()=>{
                   </svg></a>
                 <div class="card-info"><a href="#">
                     <h5 class="text-22-bold">Data Security</h5></a>
-                  <p class="text-md neutral-700">The practice of safeguarding sensitive information from unauthorized access. It involves implementing robust security protocols, encryption, and access control measures to protect data integrity and privacy.</p>
+                  <p class="text-md neutral-700 text-justify">The practice of safeguarding sensitive information from unauthorized access. It involves implementing robust security protocols, encryption, and access control measures to protect data integrity and privacy.</p>
                 </div>
               </div>
             </div>

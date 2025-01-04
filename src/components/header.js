@@ -2,6 +2,25 @@ import { useEffect, useState } from "react";
 
 const Header = () => {
     const[isSticky,setIsSticky]=useState(false)
+
+
+    const [isDropdownVisible, setIsDropdownVisible] = useState(false);
+
+    const handleMouseEnter = () => {
+      setIsDropdownVisible(true);
+    };
+  
+    const handleMouseLeave = () => {
+      setIsDropdownVisible(false);
+    };
+
+
+
+
+
+
+
+    
     useEffect(() => {
         const handleScroll = () => {
           if (window.scrollY < 200) {
@@ -33,8 +52,22 @@ const Header = () => {
                                             
                                         </li>
                                         <li class="has-children"><a href="/about">About</a></li>
-                                        <li class="has-children"><a href="/service">Services</a></li>
-                                        
+                                        <li
+          className="has-children"
+          onMouseEnter={handleMouseEnter}
+          onMouseLeave={handleMouseLeave}
+        >
+          <a href="/service">Services</a>
+          {isDropdownVisible && (
+            <ul className="dropdown">
+            <li><a href="#">Software Development</a></li>
+                  <li><a href="#">IT Consulting</a></li>
+                  <li><a href="#">Cloud Services</a></li>
+                  <li><a href="#">Cyber-Security Services</a></li>
+                  <li><a href="#">Managed IT Services</a></li>
+            </ul>
+          )}
+        </li>                                        
                                         
                                         <li class="has-children"><a href="/contact">Contact</a></li>
                                     </ul>

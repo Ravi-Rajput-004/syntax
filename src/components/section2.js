@@ -13,7 +13,7 @@ const Section2=()=>
                 <div class="card-image"><img class="wow fadeInUp" src="assets/imgs/page/homepage1/img-prepare.png" alt="Nivia"/></div>
                 <div class="card-info">
                   <h5>Easy Control Panel</h5>
-                  <p class="text-lg neutral-700 w-85 mx-auto">Mastering Your Domain with Effortless Control: Elevate Your Management Experience to New Heights of Ease and Efficiency.</p>
+                  <p class="text-lg neutral-700 w-85 mx-auto ">Mastering Your Domain with Effortless Control: Elevate Your Management Experience to New Heights of Ease and Efficiency.</p>
                 </div>
               </div>
             </div>

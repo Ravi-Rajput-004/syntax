@@ -19,7 +19,7 @@ const Banner=()=>
                     <path d="M22 11.0003L18.4791 7.47949V10.3074H0V11.6933H18.4791V14.5213L22 11.0003Z" fill=""></path>
                   </svg></a>
                 <h1 class="display-2 mb-30 mt-25 neutral-0">Get the insights you need to improve your business</h1>
-                <p class="text-lg neutral-500 mb-55">Use our analytics, reporting, and AI-assisted optimization tools to monitor trends, track performance, and create better campaigns that reach more customers likely to engage and convert.</p>
+                <p class="text-lg neutral-500 mb-55 text-justify">Use our analytics, reporting, and AI-assisted optimization tools to monitor trends, track performance, and create better campaigns that reach more customers likely to engage and convert.</p>
                 <div class="d-flex mb-60"><a class="hover-up mr-5" href="#"><img src="assets/imgs/page/homepage1/googleplay.png" alt="Nivia"/></a><a class="hover-up" href="#"><img src="assets/imgs/page/homepage1/appstore.png" alt="Nivia"/></a></div>
               </div>
             </div>
@@ -28,7 +28,7 @@ const Banner=()=>
             <div class="container">
               <div class="box-joined">
                 <div class="box-authors"><span class="item-author"><img src="assets/imgs/page/homepage1/author.png" alt="Nivia"/></span>
-                <span class="item-author"><img src="assets/imgs/page/homepage1/author2.png" alt="Nivia"/></span><span class="item-author"><img src="assets/imgs/page/homepage1/author3.png" alt="Nivia"/></span><span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span></div><span class="text-lg d-inline-block">Join thousands of users in using<br class="d-none d-md-block"/>the Nivia platform!</span>
+                <span class="item-author"><img class="set" src="assets/imgs/page/homepage1/author2.png" alt="Nivia"/></span><span class="item-author"><img src="assets/imgs/page/homepage1/author3.png" alt="Nivia"/></span><span class="item-author"><span class="text-num-author text-md-bold color-brand-2">+2k</span></span></div><span class="text-lg d-inline-block">Join thousands of users in using<br class="d-none d-md-block"/>the Nivia platform!</span>
               </div>
             </div>
           </div>

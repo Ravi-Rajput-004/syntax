@@ -16,7 +16,7 @@ const Section6 = () => {
               <h2>
                 Discover insights across all your data with Nivia Platform
               </h2>
-              <p class="text-lg neutral-500">
+              <p class="text-lg neutral-500 text-justify">
                 Bole nostrud exercitation ullamco laboris nisi ut aliquip ex ea
                 commodo conididunt ut labore et dolore magna aliqua ut enim ad
                 minim veniam
@@ -706,7 +706,7 @@ const Section6 = () => {
                 <h2 class="heading-2 mb-20 mt-20">
                   Do you have any questions?
                 </h2>
-                <p class="text-lg neutral-700">
+                <p class="text-lg neutral-700 text-justify">
                   Below you’ll find answers to the most common questions you may
                   have on Nivia Platform & Online Advertising. Also, please feel
                   free to check out our Facebook & Google Advertising Guides &
@@ -744,7 +744,7 @@ const Section6 = () => {
                     data-bs-parent="#accordionFAQS"
                   >
                     <div class="accordion-body">
-                      <p>
+                      <p class="text-justify">
                         Discover what sets this apart as the market's easiest
                         and most powerful video interviewing platform, and why
                         hiring managers consistently choose us over the
@@ -776,12 +776,14 @@ const Section6 = () => {
                     data-bs-parent="#accordionFAQS"
                   >
                     <div class="accordion-body">
+                      <p class="text-justify">
                       Discover what sets this apart as the market's easiest and
                       most powerful video interviewing platform, and why hiring
                       managers consistently choose us over the competition.
                       Discover what sets this apart as the market's easiest and
                       most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition
+                      managers consistently choose us over the competition.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -805,12 +807,15 @@ const Section6 = () => {
                     data-bs-parent="#accordionFAQS"
                   >
                     <div class="accordion-body">
+                    <p class="text-justify">
+
                       Discover what sets this apart as the market's easiest and
                       most powerful video interviewing platform, and why hiring
                       managers consistently choose us over the competition.
                       Discover what sets this apart as the market's easiest and
                       most powerful video interviewing platform, and why hiring
                       managers consistently choose us over the competition
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -834,12 +839,15 @@ const Section6 = () => {
                     data-bs-parent="#accordionFAQS"
                   >
                     <div class="accordion-body">
+                    <p class="text-justify">
+
                       Discover what sets this apart as the market's easiest and
                       most powerful video interviewing platform, and why hiring
                       managers consistently choose us over the competition.
                       Discover what sets this apart as the market's easiest and
                       most powerful video interviewing platform, and why hiring
                       managers consistently choose us over the competition
+                      </p>
                     </div>
                   </div>
                 </div>

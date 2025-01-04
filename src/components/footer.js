@@ -7,13 +7,11 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-6 col-sm-12 mb-30">
             <a href="index.html">
-              <img alt="Nivia" src="assets/imgs/template/logo.svg" />
-            </a>
+            <img style={{height:"180px", width:"280px"}} alt="Nivia" src="assets/imgs/bg-logo.png" /></a>            
             <div className="mt-20 mb-20">
               <p className="text-md neutral-600 mb-10">
-                4517 Washington Ave. Manchester, Kentucky 39495
-              </p>
-              <p className="text-md neutral-600">Hours: 8:00 - 17:00, Mon - Sat</p>
+              Add:- 3rd Floor, Crystal Plaza, SCS 78, opp. Pims Hospital, Jalandhar, Punjab 144001 </p>
+              <p className="text-md neutral-600">Hours: 9:00 - 17:00, Mon - Sat</p>
             </div>
           </div>
           <div className="col-md-6 col-sm-12">
@@ -32,23 +30,22 @@ const Footer = () => {
               <div className="col-lg-3 col-md-6 mb-30">
                 <h5 className="neutral-0 mb-10 text-18-semibold neutral-0">Services</h5>
                 <ul className="menu-footer">
-                  <li><a href="#">IT Consultancy</a></li>
-                  <li><a href="#">Data Security</a></li>
-                  <li><a href="#">Business Reform</a></li>
-                  <li><a href="#">Firewall Advance</a></li>
-                  <li><a href="#">Interactions</a></li>
-                  <li><a href="#">SEO</a></li>
+                  <li><a href="#">Software Development</a></li>
+                  <li><a href="#">IT Consulting</a></li>
+                  <li><a href="#">Cloud Services</a></li>
+                  <li><a href="#">Cyber-Security Services</a></li>
+                  <li><a href="#">Managed IT Services</a></li>
+                
                 </ul>
               </div>
               <div className="col-lg-3 col-md-6 mb-30">
-                <h5 className="neutral-0 mb-10 text-18-semibold neutral-0">Resource</h5>
+                <h5 className="neutral-0 mb-10 text-18-semibold neutral-0">Our Project</h5>
                 <ul className="menu-footer">
-                  <li><a href="#">Community</a></li>
-                  <li><a href="#">Our Blog</a></li>
-                  <li><a href="#">Forums</a></li>
-                  <li><a href="#">Meetups</a></li>
-                  <li><a href="#">Marketplace</a></li>
-                </ul>
+                  <li><a href="https://techcadd.com/">TECHCADD.COM</a></li>
+                  <li><a href="https://shrishyamimmigration.ca/">SHRISHYAM</a></li>
+                  <li><a href="https://instituteofanimationandmultimedia.com/">IAM </a></li>
+                  <li><a href="https://whitehorseieltsacademy.com/Jalandhar/">WHITEHORSE</a></li>
+                 </ul>
               </div>
               <div className="col-lg-3 col-md-6 mb-30">
                 <h5 className="neutral-0 mb-10 text-18-semibold neutral-0">Support</h5>
@@ -103,11 +100,7 @@ const Footer = () => {
                     </div>
                   </div>
                 </div>
-                <div className="col-md-6 mb-20">
-                  <p className="text-sm neutral-600">
-                    Copyright &copy; 2023 Nivia. All rights reserved.
-                  </p>
-                </div>
+                 
               </div>
             </div>
           </div>

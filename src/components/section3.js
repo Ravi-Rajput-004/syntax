@@ -5,8 +5,8 @@ const Section3=()=>{
           <div class="row align-items-center">
             <div class="col-lg-6 mb-40">
               <div class="strate-icon"><span></span> Strategies that work</div>
-              <h2 class="heading-2 mb-20">Track the progress towards objectives with key results</h2>
-              <p class="text-lg neutral-700">Nivia is an independent web design studio with a rich history. Founded in 1999, it gathered the best web designers & developers.</p>
+              <h2 class="heading-2 mb-20 ">Track the progress towards objectives with key results</h2>
+              <p class="text-lg neutral-700 text-justify">Nivia is an independent web design studio with a rich history. Founded in 1999, it gathered the best web designers & developers.</p>
               <div class="row mt-50">
                 <div class="col-lg-12">
                   <div class="card-feature-2">
@@ -62,7 +62,7 @@ const Section3=()=>{
             </div>
           </div>
         </div>
-      </section>
+       </section>
     )
 }
 export default Section3
